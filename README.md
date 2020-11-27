@@ -1,3 +1,5 @@
+# This repo is archived! It has a new home at https://github.com/laut-ag/api-browser
+
 ![npm](https://img.shields.io/npm/v/lautfm-api.svg)
 ![NPM](https://img.shields.io/npm/l/lautfm-api.svg)
 ![npm](https://img.shields.io/npm/dw/lautfm-api.svg)
